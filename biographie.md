@@ -172,4 +172,4 @@ _Un espace pour remercier ceux qui ont contribué à la rédaction ou à la coll
 4. **Progression narrative** : Alternez les passages factuels avec des anecdotes pour rendre le récit vivant.
 5. **Style** : Adaptez le ton à l’objectif de la biographie (sérieux, inspirant, intime).
 
-Si vous avez besoin d'exemples ou d’aide pour une section spécifique, je suis là pour vous aider !
+---
