@@ -16,9 +16,13 @@ Environnement de test
 - [Contact](contact.md)
 
 /!\ Ce site est en cours de développement /!\
+
 ---
+
 +++>>>> Il s'agit d'un test <<<<+++
+
 ---
+
 Voici une [maquette](maquette.md) de site complet en Markdown, qui intègre les idées discutées jusqu'à présent. Ce site est structuré pour mettre en valeur un projet personnel, avec une section dédiée aux mémoires, biographies, et autres sous-projets liés.
 
 # Mon Site Personnel
