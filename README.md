@@ -8,3 +8,24 @@ Environnement de test
 - [ ] [mémoires.md](mémoires.md)
 
 ---
+
+
++ Remerciements : Done
++ [GitHub] Sudo email verification code : 
+
+---
+
+= j'ai tout fumé Poudlard.
+03:22 (il y a 3 minutes)
+
+---
+
+EOF.
+
+---
+
+Hugo : `server`
+
+Fixit : Non plus.
+
+
